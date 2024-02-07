@@ -8,6 +8,12 @@ Sample website with plenty of files for demos 1
 
 ## Purpose
 
+Blablabla
+
 ## Deployment
 
+asda asd asd 
+
 ## How to Contribute
+
+qwerty 123
