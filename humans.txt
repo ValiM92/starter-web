@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mocean Valeriu valeriu.mocean@accesa.eu
 
 # THANKS
 
