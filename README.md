@@ -16,6 +16,8 @@ asda asd asd
 
 ## How to Contribute
 
+adding text please fork this repo
+
 qwerty 123
 
 
